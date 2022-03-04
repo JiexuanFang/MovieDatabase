@@ -1,0 +1,1 @@
+DROP TABLE Actor, Movie, MovieGenre, MovieActor, Review;
